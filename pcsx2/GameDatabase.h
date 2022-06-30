@@ -70,6 +70,7 @@ namespace GameDatabaseSchema
 		AlignSprite,
 		MergeSprite,
 		WildArmsHack,
+		PreRoundSprites,
 
 		// integer settings
 		Mipmap,
