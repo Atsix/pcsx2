@@ -2063,7 +2063,6 @@ SCED-51700:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCED-51899:
   name: "PlayStation Experience [Demo]"
@@ -2362,7 +2361,6 @@ SCED-52952:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCED-52970:
   name: "SCEE Hits Demo"
@@ -3373,7 +3371,6 @@ SCES-51608:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCES-51610:
   name: "This is Football 2004 [Red Devils 2004]"
@@ -3681,7 +3678,6 @@ SCES-52460:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCES-52529:
   name: "Sly 2 - Band of Thieves"
@@ -3883,7 +3879,6 @@ SCES-53286:
     roundSprite: 1 # Fix lines in the sky.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
   memcardFilters: # Reads Ratchet Gladiator data.
     - "SCES-53286"
@@ -4437,7 +4432,6 @@ SCES-54794:
   region: "PAL-M5"
   gsHWFixes:
     autoFlush: 1
-    preloadFrameData: 1
 SCES-54823:
   name: "SingStar Bollywood"
   region: "PAL-E"
@@ -4852,7 +4846,6 @@ SCKA-20010:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCKA-20011:
   name: "Ratchet & Clank 2"
@@ -5024,7 +5017,6 @@ SCKA-20040:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCKA-20041:
   name: "EyeToy - Play 2"
@@ -7645,7 +7637,6 @@ SCUS-97265:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97266:
   name: "Final Fantasy XI [Disc 1 of 2]"
@@ -7684,7 +7675,6 @@ SCUS-97273:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97274:
   name: "Jak II [Video Demo]"
@@ -7777,13 +7767,9 @@ SCUS-97325:
 SCUS-97326:
   name: "MLB 2005"
   region: "NTSC-U"
-  gsHWFixes:
-    preloadFrameData: 1
 SCUS-97327:
   name: "MLB 2005 [Demo]"
   region: "NTSC-U"
-  gsHWFixes:
-    preloadFrameData: 1
 SCUS-97328:
   name: "Gran Turismo 4"
   region: "NTSC-U"
@@ -7813,7 +7799,6 @@ SCUS-97330:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97331:
   name: "Official U.S. PlayStation Magazine Demo Disc 078"
@@ -7893,7 +7878,6 @@ SCUS-97362:
   compat: 5
   gsHWFixes:
     autoFlush: 1
-    preloadFrameData: 1
 SCUS-97365:
   name: "World Tour Soccer 2005"
   region: "NTSC-U"
@@ -7937,7 +7921,6 @@ SCUS-97374:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97377:
   name: "Syphon Filter - The Omega Strain [Regular Demo]"
@@ -8063,7 +8046,6 @@ SCUS-97412:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97413:
   name: "Ratchet & Clank - Up Your Arsenal [Public Beta v1.0]"
@@ -8132,7 +8114,6 @@ SCUS-97429:
     roundSprite: 1 # Fix lines in the sky.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
   memcardFilters:
     - "SCUS-97429"
@@ -8400,7 +8381,6 @@ SCUS-97486:
     roundSprite: 1 # Fix lines in the sky.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97487:
   name: "Ratchet - Deadlocked [Public Beta v.1]"
@@ -8420,7 +8400,6 @@ SCUS-97488:
     roundSprite: 1 # Fix lines in the sky.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97489:
   name: "SOCOM 3 - U.S. Navy SEALs [Public Beta v.1]"
@@ -8509,7 +8488,6 @@ SCUS-97509:
     mipmap: 1 # Fixes broken textures.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97510:
   name: "ATV Offroad Fury 2 [Greatest Hits]"
@@ -8554,7 +8532,6 @@ SCUS-97516:
     mipmap: 1
     textureInsideRT: 1
     autoFlush: 1
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 SCUS-97517:
   name: "Killzone [Greatest Hits]"
@@ -8786,7 +8763,6 @@ SCUS-97620:
   region: "NTSC-U"
   gsHWFixes:
     autoFlush: 1
-    preloadFrameData: 1
 SCUS-97621:
   name: "Twisted Metal - Head-On [Extra Twisted Edition]"
   region: "NTSC-U"
@@ -11184,35 +11160,30 @@ SLES-50804:
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
     texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLES-50805:
   name: "Deus Ex"
   region: "PAL-G"
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
     texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLES-50806:
   name: "Deus Ex"
   region: "PAL-F"
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
     texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLES-50807:
   name: "Deus Ex"
   region: "PAL-I"
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
     texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLES-50808:
   name: "Deus Ex"
   region: "PAL-S"
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
     texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLES-50809:
   name: "Next Generation Tennis"
   region: "PAL-M6"
@@ -12201,8 +12172,6 @@ SLES-51220:
   name: "TY the Tasmanian Tiger"
   region: "PAL-M5"
   compat: 5
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-51222:
   name: "Rayman 3 - Hoodlum Havoc"
   region: "PAL-M5"
@@ -13727,8 +13696,6 @@ SLES-51931:
 SLES-51932:
   name: "Adventures of Jimmy Neutron, The - Boy Genius - Jet Fusion"
   region: "PAL-E"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-51933:
   name: "Gregory Horror Show"
   region: "PAL-M3"
@@ -15447,7 +15414,6 @@ SLES-52709:
   region: "PAL-M7"
   compat: 5
   gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
     halfPixelOffset: 1 # Fixes visible lines in water textures.
 SLES-52710:
   name: "McFarlane's Evil Prophecy"
@@ -15806,8 +15772,6 @@ SLES-52861:
   name: "King Arthur"
   region: "PAL-M5"
   compat: 5
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-52863:
   name: "Pinball Hall of Fame"
   region: "PAL-M6"
@@ -17836,7 +17800,6 @@ SLES-53636:
   roundModes:
     eeRoundMode: 0 # Fixes story mission to make it completable.
   gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
     halfPixelOffset: 1 # Fixes visible lines in water textures.
 SLES-53638:
   name: "Ski Racing 2006"
@@ -19653,15 +19616,14 @@ SLES-54359:
   name: "Legend of Spyro, The - A New Beginning"
   region: "PAL-M6"
   compat: 5
+  gsHWFixes:
+    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
   patches:
     0EE5646B:
       content: |-
         comment=Patch by kozarovv and refraction
         // Fixes HUD and menu display.
         patch=1,EE,001849b8,word,00000000
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
-    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
 SLES-54360:
   name: "Pro Evolution Soccer 6"
   region: "PAL-F"
@@ -20439,8 +20401,6 @@ SLES-54658:
         // Patch replace values passed to FPU to workaround x86 rounding issues.
         patch=1,EE,0017cb84,word,3464fff0
         patch=1,EE,0017cb90,word,3463fffc
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-54659:
   name: "Star Wars - The Force Unleashed"
   region: "PAL-M4"
@@ -20453,8 +20413,6 @@ SLES-54659:
         // Patch replace values passed to FPU to workaround x86 rounding issues.
         patch=1,EE,0017cb84,word,3464fff0
         patch=1,EE,0017cb90,word,3463fffc
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-54663:
   name: "Jackass - The Game"
   region: "PAL-M5"
@@ -20862,28 +20820,26 @@ SLES-54815:
   name: "Legend of Spyro, The - The Eternal Night"
   region: "PAL-M6"
   compat: 5
+  gsHWFixes:
+    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
   patches:
     8AE9536D:
       content: |-
         comment=Patch by kozarovv and refraction
         // Fixes HUD and menu display.
         patch=1,EE,00173c38,word,00000000
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
-    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
 SLES-54816:
   name: "Legend of Spyro, The - The Eternal Night"
   region: "PAL-R"
   compat: 5
+  gsHWFixes:
+    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
   patches:
     C95F0198:
       content: |-
         comment=Patch by kozarovv and refraction
         // Fixes HUD and menu display.
         patch=1,EE,00173bb8,word,00000000
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
-    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
 SLES-54817:
   name: "Garfield - Lasagna World Tour"
   region: "PAL-M5"
@@ -22570,7 +22526,6 @@ SLES-55520:
   compat: 5
   gsHWFixes:
     cpuSpriteRenderBW: 2 # Fixes textures.
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLES-55522:
   name: "Disney-Pixar Up"
   region: "PAL-E"
@@ -23209,8 +23164,6 @@ SLKA-15032:
 SLKA-15033:
   name: "Princess Maker 2"
   region: "NTSC-K"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes black screen.
 SLKA-15043:
   name: "Super Puzzle Bobble Collection Vol 1"
   region: "NTSC-K"
@@ -24335,7 +24288,6 @@ SLKA-25459:
   compat: 5
   gsHWFixes:
     cpuSpriteRenderBW: 2 # Fixes textures.
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLKA-25477:
   name: "World Soccer Winning Eleven 2011"
   region: "NTSC-K"
@@ -27164,8 +27116,6 @@ SLPM-62700:
 SLPM-62701:
   name: "Princess Maker 2 [Best Hit Selection]"
   region: "NTSC-J"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes black screen.
 SLPM-62702:
   name: "Momotaro Densetsu 15"
   region: "NTSC-J"
@@ -36148,8 +36098,6 @@ SLPS-20392:
 SLPS-20393:
   name: "Princess Maker 2"
   region: "NTSC-J"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes black screen.
 SLPS-20394:
   name: "Suki na Mono wa Sukida Rashouganai + White Flower + Sukisyo!"
   region: "NTSC-J"
@@ -38652,8 +38600,6 @@ SLPS-25589:
 SLPS-25590:
   name: "Namco Museum Arcade Hits"
   region: "NTSC-J"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes black screen when prompted to load from memory card.
 SLPS-25591:
   name: "Last Escort - Shinya no Kokuchou Monogatari"
   region: "NTSC-J"
@@ -39761,8 +39707,6 @@ SLPS-25888:
         // Patch replace values passed to FPU to workaround x86 rounding issues.
         patch=1,EE,0017d454,word,3464fff0
         patch=1,EE,0017d460,word,3463fffc
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLPS-25889:
   name: "Guitar Hero - Aerosmith"
   region: "NTSC-J"
@@ -41009,8 +40953,6 @@ SLUS-20111:
   compat: 5
   gsHWFixes:
     roundSprite: 1 # Fixes lines in HUD and text boxes.
-    texturePreloading: 1 # Performs much better with partial.
-    preloadFrameData: 1 # Fixes loading screen images being cut off two thirds.
 SLUS-20112:
   name: "Star Trek - Shattered Universe"
   region: "NTSC-U"
@@ -41653,8 +41595,6 @@ SLUS-20273:
   name: "Namco Museum"
   region: "NTSC-U"
   compat: 5
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes black screen when prompted to load from memory card.
 SLUS-20274:
   name: "City Crisis"
   region: "NTSC-U"
@@ -43060,8 +43000,6 @@ SLUS-20571:
   name: "TY the Tasmanian Tiger"
   region: "NTSC-U"
   compat: 5
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLUS-20572:
   name: "Tiger Woods PGA Tour 2003"
   region: "NTSC-U"
@@ -43660,10 +43598,8 @@ SLUS-20695:
     alignSprite: 1 # Fixes green vertical lines.
     roundSprite: 2 # Fixes vertical lines and some font artifacts but not completely fixed.
 SLUS-20696:
-  name: "Adventures of Jimmy Neutron, The - Boy Genius - Jet Fusion"
+  name: "Nickelodeon Jimmy Neutron - Boy Genius - Jet Fusion"
   region: "NTSC-U"
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLUS-20697:
   name: "Cy Girls [Disc 1 of 2]"
   region: "NTSC-U"
@@ -45457,8 +45393,6 @@ SLUS-21046:
   name: "King Arthur"
   region: "NTSC-U"
   compat: 5
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLUS-21047:
   name: "Cold Fear"
   region: "NTSC-U"
@@ -45514,7 +45448,6 @@ SLUS-21057:
   region: "NTSC-U"
   compat: 5
   gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
     halfPixelOffset: 1 # Fixes visible lines in water textures.
 SLUS-21058:
   name: "NBA Live 2005"
@@ -46531,7 +46464,6 @@ SLUS-21253:
   roundModes:
     eeRoundMode: 0 # Fixes story mission to make it completable.
   gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
     halfPixelOffset: 1 # Fixes visible lines in water textures.
 SLUS-21254:
   name: "Zatch Bell! Mamodo Battles"
@@ -47230,15 +47162,14 @@ SLUS-21372:
   name: "Legend of Spyro, The - A New Beginning"
   region: "NTSC-U"
   compat: 5
+  gsHWFixes:
+    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
   patches:
     D03D4C77:
       content: |-
         comment=Patch by kozarovv and refraction
         // Fixes HUD and menu display.
         patch=1,EE,001849b8,word,00000000
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
-    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
 SLUS-21373:
   name: "Drakengard 2"
   region: "NTSC-U"
@@ -48338,15 +48269,14 @@ SLUS-21607:
   name: "Legend of Spyro, The - The Eternal Night"
   region: "NTSC-U"
   compat: 5
+  gsHWFixes:
+    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
   patches:
     B80CE8EC:
       content: |-
         comment=Patch by kozarovv and refraction
         // Fixes HUD and menu display.
         patch=1,EE,00173cb8,word,00000000
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
-    halfPixelOffset: 2 # Fixes lighting on mushrooms + others.
 SLUS-21608:
   name: "Dance Dance Revolution SuperNOVA 2"
   region: "NTSC-U"
@@ -48384,8 +48314,6 @@ SLUS-21614:
         // Patch replace values passed to FPU to workaround x86 rounding issues.
         patch=1,EE,0017cf24,word,3464fff0
         patch=1,EE,0017cf30,word,3463fffc
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLUS-21615:
   name: "Wild ARMs 5"
   region: "NTSC-U"
@@ -49610,7 +49538,6 @@ SLUS-21881:
   compat: 5
   gsHWFixes:
     cpuSpriteRenderBW: 2 # Fixes textures.
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
   patches:
     137C792E:
       content: |-
@@ -49752,8 +49679,6 @@ SLUS-21913:
         // This can be fixed on the GS side but the software renderer is impossible to fix.
         // So this patch corrects the issue on the EE side.
         patch=1,EE,00173328,word,3464fffd
-  gsHWFixes:
-    preloadFrameData: 1 # Fixes missing splash logo at boot.
 SLUS-21914:
   name: "NHL 2K10"
   region: "NTSC-U"
@@ -50857,7 +50782,6 @@ TCES-53286:
     roundSprite: 1 # Fix lines in the sky.
     textureInsideRT: 1 # Fixes broken character models.
     autoFlush: 1 # Fixes lighting.
-    preloadFrameData: 1 # Fixes Sony splash at boot.
     beforeDraw: "OI_JakGames"
 TCPS-10058:
   name: "Densha de Go! Shinkansen [with Controller]"
